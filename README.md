@@ -33,3 +33,6 @@ Run the following files in this order:
 3. ```train_test_split.py```
 <br>This script will split the dataset in the training folder to a specified ratio of test/train to the test and train folder in the dataset.
 4. ```train.py```
+<br>This is where the training takes place, it may take a while but hold on to it. After running this script, the neural network model will be saved as ```raw_train_model.h5```.
+5. ```evaluate.py```
+<br>This script tests the accuracy of the model by predicting the classes inside the testing dataset.
