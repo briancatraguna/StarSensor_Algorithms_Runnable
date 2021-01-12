@@ -8,6 +8,10 @@ This repository is for running the training files under a linux virtual server. 
     ```bash
     pip install numpy
     ```
+    * Imutils
+    ```bash
+    pip install imutils
+    ```
     * Matplotlib
     ```bash
     pip install matplotlib
